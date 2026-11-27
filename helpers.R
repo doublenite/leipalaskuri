@@ -1,7 +1,7 @@
-jauhoaineisto <- read.csv("~/leipalaskuri/data/jauhot.csv")
+jauhoaineisto <- read.csv("data/jauhot.csv")
 pituus <- length(jauhoaineisto)
 jauhoVaihtoehdot <- jauhoaineisto$jauho
-siemenaineisto <- read.csv("~/leipalaskuri/data/siemenet.csv")
+siemenaineisto <- read.csv("data/siemenet.csv")
 siemenVaihtoehdot <- siemenaineisto$siemen
 
 jauhoetsin <- function(x) {
