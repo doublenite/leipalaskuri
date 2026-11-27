@@ -2,10 +2,10 @@
 
 library(shiny)
 library(bslib)
-jauhoaineisto <- read.csv("data/jauhot.csv")
-jauhoVaihtoehdot <- jauhoaineisto$jauho
-siemenaineisto <- read.csv("data/siemenet.csv")
-siemenVaihtoehdot <- siemenaineisto$siemen
+#jauhoaineisto <- read.csv("data/jauhot.csv")
+#jauhoVaihtoehdot <- jauhoaineisto$jauho
+#siemenaineisto <- read.csv("data/siemenet.csv")
+#siemenVaihtoehdot <- siemenaineisto$siemen
   
 
 source("helpers.R")
