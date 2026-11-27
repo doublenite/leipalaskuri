@@ -1,7 +1,7 @@
 # leipalaskuri
 by Teemu Nikula
 
-Online-versio sovelluksesta: https://connect.posit.cloud/doublenite/content/01a21cee-8ed2-1944-c461-848fa4efe28f
+Online-versio sovelluksesta: https://01a21cee-8ed2-1944-c461-848fa4efe28f.share.connect.posit.cloud/
 
 Sovellus auttaa leipäreseptin ravintosisällön laskemiseen ja itsetehdyn leivän kilohinnan arvioimiseen. Syy sovelluksen luomiselle oli henkilökohtainen tarve laskea itseleivottujen leipien ravintosisältöjä ja kilohintoja vertailumielessä ja sovelluksen sisältö ja rajallisuus vastaa tarvetta.
 
