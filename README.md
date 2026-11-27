@@ -23,14 +23,10 @@ data-kansio sisältää seuraavat .csv-tiedostot: jauhot.csv ja siemenet.csv
 
 jauhot.csv
 
-jauho: jauhon nimi
-
-tyyppi: jauhon viljan tyyppi
-
-tiheys: jauhojen tiheys (g/dl)
-
-pakkauskoko: pakkauksen massa grammoina
-
+jauho: jauhon nimi;
+tyyppi: jauhon viljan tyyppi;
+tiheys: jauhojen tiheys (g/dl);
+pakkauskoko: pakkauksen massa grammoina;
 kilohinta: hinta/pakkauskoko;
 energia: jauhojen energiamäärä kilokaloreina 100 g kohden;
 rasva: jauhojen rasvamäärä grammoina per 100 g kohden;
